@@ -2,19 +2,24 @@ Public Space Failure
 
 Preserve public space. Let its promise fail.
 
-Public Space Failure is a Codex skill for transforming real public, transit, architectural, and semi-public spaces into restrained liminal environments.
+Public Space Failure is a Codex skill for transforming real public, transit, architectural, and semi-public spaces into restrained liminal images.
 
-It preserves the recognizable identity of the original place while quietly breaking the logic of circulation, threshold, scale, function, layering, or destination.
+It preserves the identity of the original place, simplifies visual noise, and introduces one clear spatial failure.
 
-The result should still feel like a real documentary photograph.
+The result should feel:
 
-The space becomes impossible.
+* quieter than the source
+* emptier than the source
+* more spatially impossible than the source
+* but still photographically believable
 
-The camera remains believable.
+The space may fail.
+
+The camera should still tell the truth.
 
 ⸻
 
-Concept
+Core Idea
 
 Public spaces make promises.
 
@@ -38,17 +43,52 @@ The goal is to make a real place quietly stop behaving normally.
 
 ⸻
 
+The Method
+
+The basic process is:
+
+1. Preserve the place
+
+Keep the local identity, architecture, materials, signage, lighting logic, and documentary character.
+
+2. Simplify the image
+
+Reduce unnecessary people, advertising, clutter, redundant signage, and background noise.
+
+3. Extract the key anchors
+
+Preserve only the strongest 1–3 spatial elements, such as:
+
+* a staircase
+* platform
+* station sign
+* bench
+* escalator
+* tiled wall
+* doorway
+* train
+* monitor
+* corridor opening
+
+4. Break one spatial promise
+
+Introduce one clear and visible spatial failure.
+
+5. Keep the image photographic
+
+The impossible architecture should still feel accidentally documented by a real camera.
+
+⸻
+
 Core Spatial Motifs
 
 Door → Larger Space
 
-A modest doorway or narrow opening reveals a public interior much larger than reality should allow.
+A modest doorway opens into a public interior much larger than reality should physically allow.
 
 Exit → Interior
 
-The viewer appears to leave a building, but outside never truly begins.
-
-An exterior courtyard, passage, or street may become part of a larger enclosed interior.
+The viewer appears to leave, but outside never truly begins.
 
 Route → Loop
 
@@ -56,69 +96,89 @@ A corridor, railway, or circulation route continues but eventually returns to it
 
 Movement remains possible.
 
-Progress does not.
+Progress disappears.
 
 Destination Failure
 
-Architecture still provides direction, but arrival disappears.
+Architecture still provides direction, but arrival no longer resolves.
 
 Public Function Failure
 
-A platform, waiting area, station, foyer, or corridor remains visually functional while losing its actual purpose.
+A platform, waiting area, foyer, or corridor still looks usable while losing its actual purpose.
+
+Layer Failure
+
+Another displaced or incomplete version of the same public space appears above, below, or behind the original.
 
 Descent Failure
 
-Public space appears to sink downward through repeated, darker, smaller, or increasingly incomplete layers.
+The space continues downward into darker, smaller, more incomplete, or repeated lower layers.
 
 Interior / Exterior Failure
 
-The distinction between indoor and outdoor space quietly stops functioning.
+The boundary between inside and outside quietly stops functioning.
 
 Screen / Reflection Failure
 
-A monitor, surveillance image, window, or reflection stops behaving purely as an image and begins behaving like spatial evidence.
+A monitor, surveillance image, window, or reflection begins behaving like another spatial layer.
 
 Compression / Collapse
 
-A large public environment may collapse into a small group of its own recognizable fragments: signs, benches, clocks, screens, trains, tiles, or furniture.
+A large public environment collapses into a few recognizable fragments of itself:
+
+* signs
+* benches
+* clocks
+* screens
+* train parts
+* tiles
+* columns
+* furniture
 
 ⸻
 
 Liminal Space
 
-This skill draws from the atmosphere of liminal space.
+This skill draws from liminal space.
 
-Not simply empty rooms, but spaces designed for transition where transition no longer resolves:
+Not simply empty rooms, but spaces designed for transition where transition no longer resolves.
 
-* platforms without meaningful departure
-* corridors without arrival
-* exits that lead further inside
-* waiting rooms without anything to wait for
-* stairs suspended between destinations
-* public architecture that still appears usable but no longer behaves normally
+Examples:
 
-The mood should remain quiet, suspended, and restrained.
+* a platform without meaningful departure
+* a corridor without arrival
+* a waiting room with nothing left to wait for
+* a staircase descending into an impossible lower level
+* an exit leading further inside
+* a public hall whose function remains visible but no longer works
+
+The mood should feel:
+
+* quiet
+* suspended
+* underused
+* slightly uncanny
+* emotionally cool
+* calm but spatially wrong
 
 ⸻
 
-Backrooms Influence
+Backrooms Logic
 
-Public Space Failure is influenced by the spatial logic of the Backrooms, but it is not a Backrooms style generator.
+Public Space Failure is influenced by Backrooms spatial logic, but it is not a generic Backrooms style generator.
 
-The goal is not to turn every location into a yellow office maze.
+It does not automatically turn real places into yellow office mazes.
 
-Instead, it looks for Backrooms-like conditions already latent inside real public architecture:
+Instead, it searches for Backrooms-like conditions already latent inside the architecture:
 
 * impossible extension
 * looping circulation
-* oversized interior space
+* oversized interiors
 * repeated infrastructure
-* unresolved destination
 * failed thresholds
+* unresolved destination
 * suspended public function
 * excessive emptiness
-* spatial repetition
-* interior space that contains more than it physically should
 
 Do not make reality look like the Backrooms.
 
@@ -135,11 +195,11 @@ Avoid:
 * monsters
 * supernatural entities
 * blood or gore
-* jump-scare composition
+* jump scares
 * horror faces
 * threatening shadows
-* exaggerated darkness
-* abandoned-hospital clichés
+* haunted-house imagery
+* extreme darkness
 * theatrical fear
 
 The desired feeling is closer to:
@@ -152,26 +212,63 @@ Documentary Camera Language
 
 The spatial logic may become impossible, but the photographic language should remain believable.
 
-Preferred qualities include:
+The preferred image character is inspired by:
 
 * early-2000s European documentary photography
-* consumer-camera realism
+* travel photography
+* consumer or compact-camera realism
 * restrained 35mm-film feeling
+
+Preferred qualities:
+
 * slight optical softness
-* subtle grain
-* muted or slightly aged color
+* subtle film grain
+* restrained sharpness
 * modest dynamic range
-* available light
-* fluorescent public-space lighting
-* imperfect exposure
-* mildly uneven white balance
+* practical or fluorescent lighting
+* mildly aged color response
+* slightly imperfect white balance
+* believable blur
+* worn architectural texture
 * ordinary camera height
-* worn architectural surfaces
-* unpolished photographic texture
+* unpolished photographic realism
+
+Avoid:
+
+* HDR
+* ultra-sharp digital rendering
+* glossy architectural visualization
+* polished CGI
+* luxury editorial grading
+* oversaturated color
+* dramatic blockbuster lighting
+* obvious AI sharpness
 
 The photograph should feel like someone accidentally documented something impossible.
 
-The space may fail. The camera should still tell the truth.
+⸻
+
+Simplification Is Part of the Style
+
+Public Space Failure is not only about adding spatial impossibility.
+
+It is also about subtraction.
+
+Whenever possible, reduce:
+
+* crowd presence
+* unnecessary advertising
+* redundant signage
+* background clutter
+* secondary furniture
+* technical distractions
+* visual noise
+
+The final image should usually feel more silent and spatially legible than the source.
+
+Empty space is not absence.
+
+Empty space is the stage on which the failure becomes visible.
 
 ⸻
 
@@ -191,7 +288,7 @@ It can be used with public spaces in:
 * Mexico City
 * or any other real location
 
-Local architectural identity should remain intact.
+Local identity should remain intact.
 
 Paris should remain Paris.
 
@@ -199,20 +296,21 @@ Tokyo should remain Tokyo.
 
 Berlin should remain Berlin.
 
-The failure belongs to the space.
+The spatial language may stay consistent.
 
-The location should not disappear.
+The place should not disappear.
 
 ⸻
 
 Best Source Images
 
-Public Space Failure works especially well with photographs containing:
+This skill works especially well with images containing:
 
 * doors
 * thresholds
 * corridors
-* stairs
+* staircases
+* escalators
 * platforms
 * railway tracks
 * waiting areas
@@ -220,12 +318,11 @@ Public Space Failure works especially well with photographs containing:
 * reflections
 * screens
 * surveillance monitors
-* public halls
 * underground passages
-* station architecture
-* indoor/outdoor transitions
+* station halls
+* indoor / outdoor transitions
 
-The strongest results usually come from photographs that already contain a clear spatial promise.
+The strongest source images usually already contain a clear spatial promise.
 
 ⸻
 
@@ -235,9 +332,14 @@ After installing the skill, provide a real public-space photograph and call:
 
 Use the public-space-failure skill on this image.
 
-The skill should first read the original architecture, identify what the space normally promises, and then derive a site-specific failure from the photograph.
+The skill should:
 
-It should not automatically repeat the same mechanism for every image.
+1. read the original architecture
+2. identify the key spatial anchors
+3. simplify visual noise
+4. determine what the space normally promises
+5. choose one strong spatial failure
+6. keep the final image documentary and non-horror
 
 ⸻
 
@@ -247,12 +349,12 @@ The examples/ folder contains the first visual case study developed from real Be
 
 These examples explore:
 
-* oversized spaces behind ordinary thresholds
-* looping railways
-* destination failure
+* doors opening into oversized interiors
+* looping railway circulation
 * layered platforms
+* destination failure
 * downward spatial descent
-* interior/exterior collapse
+* interior / exterior collapse
 * surveillance and reflection as spatial layers
 * compressed public-space memory
 * empty transitional architecture
@@ -277,20 +379,18 @@ What happens when a real public place remains recognizable, but its spatial prom
 
 Guiding Lines
 
-Preserve public space.
+Simplify before transforming.
 
-Let its promise fail.
+Preserve only the key anchors.
 
-A door may still open.
+Break one spatial promise clearly.
 
-A route may still continue.
+Make the image quieter.
 
-A platform may still wait.
+Make the failure stronger.
 
-An exit may still appear.
+Keep the camera honest.
 
-But arrival is no longer guaranteed.
+The architecture remains real.
 
-The space fails from within.
-
-The camera still tells the truth.
+The logic no longer does.
