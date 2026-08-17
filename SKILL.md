@@ -15,6 +15,10 @@ Preserve public space.
 
 Let its promise fail.
 
+Visual language: Early-2000s Fluorescent Documentary Realism.
+
+This visual language is mandatory and should remain consistent across outputs.
+
 The image should become quieter, emptier, more distilled, and more spatially
 impossible than the source while still feeling like a real photograph.
 
@@ -226,39 +230,55 @@ The goal is spatial uncertainty, not terror.
 
 This rule is mandatory.
 
-The final image should feel like a real early-2000s documentary or travel
-photograph, not a clean digital render.
+The visual language should follow:
+
+Early-2000s Fluorescent Documentary Realism.
+
+The final image should feel like a real early-2000s European documentary or travel photograph captured inside ordinary public architecture.
 
 Prefer:
-- early-2000s European documentary feeling
 - consumer or compact-camera realism
-- slight optical softness
+- restrained 35mm-like softness
 - subtle film grain
-- restrained sharpness
+- slight optical softness
 - modest dynamic range
-- practical fluorescent or available light
-- mildly aged color response
-- slightly imperfect white balance
-- ordinary camera height
-- believable blur
+- low to moderate contrast
+- mildly faded color response
+- imperfect white balance
+- ordinary exposure
+- practical fluorescent lighting
+- subtle institutional fluorescent yellow-green cast
+- dirty off-whites
+- pale beige and muted olive-green undertones
+- slightly tired fluorescent yellow
+- believable shadow detail
 - worn architectural texture
 - unpolished photographic realism
 
-Do not beautify the image.
+The yellow-green cast must feel caused by fluorescent public-space lighting, not applied as a global color filter.
+
+The image may carry a restrained Backrooms-like fluorescent atmosphere, but it must still feel like a real documentary photograph of an existing public place.
 
 Avoid:
+- warm orange cinematic grading
+- heavy sepia
+- strong vintage filters
+- glossy film emulation
+- teal-and-orange grading
 - HDR
-- hyper-sharp detail
-- glossy architectural visualization
+- hyper-sharp digital rendering
 - polished CGI
-- luxury editorial grading
-- oversaturated color
-- dramatic rim light
-- heavy cinematic color grading
-- artificial volumetric effects
+- dramatic movie lighting
 - obvious AI sharpness
 
-The impossible space should look accidentally documented.
+If the final image looks clean, neutral, modern, or digitally polished, the rendering is incorrect.
+
+Restore:
+- restrained fluorescent yellow-green cast
+- softer contrast
+- slight grain
+- optical softness
+- imperfect documentary texture
 
 The space may fail.
 
