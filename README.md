@@ -61,8 +61,8 @@ The method follows a simple sequence:
 1. Read the real space.
 2. Identify what it normally promises.
 3. Preserve only the strongest identity anchors.
-4. Change the spatial geometry clearly.
-5. Break one spatial rule.
+4. Choose one spatial failure.
+5. Change the spatial geometry clearly.
 6. Simplify unnecessary visual noise.
 7. Keep the result photographically believable.
 8. Apply the final documentary image treatment last.
@@ -314,7 +314,7 @@ The visual treatment comes last.
 
 The preferred image language is:
 
-# 2000s Documentary Fluorescent Realism
+**2000s Documentary Fluorescent Realism**
 
 The image should feel like a quiet frame from an early-2000s European documentary, public-space travel photograph, older compact-camera image, or restrained DV-era observational footage.
 
@@ -478,7 +478,9 @@ The skill should:
 
 The skill can also work as a spatial design critic or concept generator before any image is created.
 
-Instead of generating immediately, ask it to identify:
+Spatial Critic Mode uses the skill's Dry Run Mode and does not generate an image.
+
+Instead, ask it to identify:
 
 - what the space normally promises
 - which rule is most interesting to break
