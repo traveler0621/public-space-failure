@@ -1,344 +1,782 @@
+---
+name: public-space-failure
+description: >
+  Transform real public, transit, architectural, and semi-public photographs
+  into restrained liminal images by preserving local identity, simplifying
+  visual noise, and introducing one clearly visible spatial failure. Use for
+  doors opening into larger impossible interiors, looping routes, failed
+  destinations, descent, interior/exterior collapse, layered platforms,
+  recursive public architecture, or public functions that quietly stop working,
+  while keeping non-horror documentary realism and a 2000s fluorescent
+  documentary image texture.
+---
+
 # Public Space Failure
 
-Transform real photographs of public or semi-public environments into restrained surreal images in which one spatial rule quietly fails.
+Preserve reality.
 
-Use this skill when the user wants to reinterpret a real photograph of a station, corridor, subway, platform, stairwell, waiting area, tunnel, underpass, terminal, concourse, passage, public building interior, or similar everyday space as a liminal, impossible, but believable scene.
+Break one spatial rule.
 
-The result should preserve the realism, atmosphere, architectural identity, and documentary grounding of the source image, while introducing one clear spatial impossibility.
+Visual language: 2000s Documentary Fluorescent Realism.
 
-The transformation should feel quiet, uncanny, minimal, and cinematic in a restrained way — closer to documentary surrealism than fantasy illustration.
+Visual treatment never substitutes for spatial transformation.
 
-This is not horror. This is not a collage of random weird elements. This is not decorative surrealism. It is a controlled failure of public space.
+The final image should become quieter, emptier, more distilled, and more
+spatially impossible than the source while still feeling like a real photograph.
 
----
+The space may fail.
 
-## Core principle
-
-Preserve reality. Break one spatial rule.
-
-The image should still feel like a real place, photographed in the real world, but one spatial relationship should no longer behave normally.
-
-The intervention must be strong enough to be conceptually clear, but restrained enough that the image still feels believable at first glance.
+The camera should still tell the truth.
 
 ---
 
-## Desired image language
+## Core Principle
 
-The visual language should combine:
+This skill is about spatial failure first.
 
-- documentary realism
-- liminal space atmosphere
-- restrained backrooms-adjacent spatial unease
-- public architecture
-- emptiness
-- spatial drift
-- minimal surreal intervention
-- quiet observational tone
+The source image should remain recognizable as the same real place, but one
+architectural, circulatory, functional, or threshold rule must visibly stop
+working.
 
-The mood should feel:
+The transformation should feel quiet, plausible, and restrained.
 
-- empty but not abandoned
-- uncanny but not horror
-- silent but not theatrical
-- spatially wrong but visually calm
-- emotionally distant, observational, and restrained
+Do not create fantasy architecture for its own sake.
+
+Do not turn the image into horror.
+
+Do not treat color grading as the main transformation.
 
 ---
 
-## What to preserve
+## Mandatory Spatial Transformation
 
-Preserve as much of the source photograph as possible, especially:
+Spatial transformation is the primary task of this skill.
 
-- the original place identity
-- architecture and material logic
+A Public Space Failure result is incomplete unless the physical or architectural
+logic of the source image has visibly changed.
+
+Color grading, atmosphere, film grain, fluorescent yellow-green lighting,
+cleanup, emptiness, or crowd removal alone DO NOT count as Public Space Failure.
+
+Every output MUST introduce one clearly readable spatial failure.
+
+At least one of these must visibly change:
+
+- spatial depth
+- route continuity
+- destination
+- threshold behavior
+- vertical descent or ascent
+- interior / exterior boundary
+- platform or floor layering
+- architectural repetition
+- scale relationship
+- public-space function
+
+The transformation must affect the architecture or circulation itself.
+
+Do not stop after changing:
+- color
+- lighting
+- texture
+- grain
+- atmosphere
+- people
+- clutter
+
+These are secondary treatments.
+
+Spatial failure is mandatory.
+
+---
+
+## Failure Test
+
+Before finalizing, perform this test:
+
+If all color grading, grain, fluorescent atmosphere, and image treatment were
+removed, would the image still contain a clearly impossible public-space
+condition?
+
+If the answer is no, the result is incomplete.
+
+Strengthen the spatial transformation before finalizing.
+
+A successful result should remain conceptually readable in black and white.
+
+---
+
+## Execution Order
+
+Always work in this order:
+
+1. Read the source architecture.
+2. Identify what the public space normally promises.
+3. Choose one dominant spatial failure.
+4. Build that spatial failure clearly and visibly.
+5. Simplify clutter and unnecessary people.
+6. Preserve local identity and documentary realism.
+7. Apply the 2000s documentary fluorescent image treatment LAST.
+
+Do not begin with color grading.
+
+Do not treat the visual filter as the transformation.
+
+Spatial structure comes first.
+
+Image treatment comes last.
+
+---
+
+## Source Image Is the Master
+
+This is an edit of the supplied photograph, not a new architectural redesign.
+
+Preserve whenever possible:
+
+- framing
 - camera height
-- lens feeling and documentary framing
-- perspective and spatial believability
-- culturally specific details when relevant
-- the mood of public life, even if most people are removed
-- the realism of the environment
+- perspective
+- horizon
+- vanishing structure
+- major architecture
+- local materials
+- recognizable signage
+- key furniture
+- platform geometry
+- tiled walls
+- structural columns
+- lighting logic
+- wear and texture
+- documentary imperfections
 
-If a person is present and important to the composition, preserve their presence and gesture, unless the concept works better with the figure removed.
+The result should still feel like the same real location.
 
-If people are visually distracting and not essential, simplify or remove them.
+Do not replace the source architecture with a completely new environment.
 
 ---
 
-## Public space failure logic
+## Simplify Before Transforming
 
-Introduce one main spatial impossibility, not many unrelated ones.
+Before or during the spatial transformation, reduce visual noise.
 
-Possible public space failure operations include:
+Remove or reduce when unnecessary:
 
-### 1. Door to a larger space
-A normal door, opening, gap, passage, or threshold leads into a space that is impossibly larger than the exterior architecture should allow.
+- people
+- advertisements
+- redundant signage
+- background clutter
+- technical distractions
+- secondary furniture
+- random foreground objects
+- visual noise that competes with the spatial idea
+
+Do not preserve clutter just because it exists in the source.
+
+The final image should usually feel more distilled and spatially legible.
+
+---
+
+## Extract Key Spatial Anchors
+
+Identify the 1–3 strongest spatial anchors in the source image.
+
+Typical anchors include:
+
+- station sign
+- bench
+- staircase
+- escalator
+- platform edge
+- train
+- door
+- tiled wall
+- clock
+- monitor
+- corridor opening
+- column rhythm
+- window
+- waiting chairs
+
+Preserve these anchors clearly.
+
+Reduce the rest.
+
+The anchors should maintain the identity of the real place while the spatial
+logic around them fails.
+
+---
+
+## Read the Spatial Promise
+
+Before transforming, ask what the space normally promises.
 
 Examples:
-- a subway platform wall contains a narrow door that opens into a vast empty hall
-- a corridor opens into a deeper, larger, quieter continuation of itself
-- a side door in a station reveals another public interior much bigger than the building can contain
 
-### 2. Infinite continuation
-A corridor, platform, passage, tunnel, or sequence of columns extends far beyond reasonable reality, receding into a soft, quiet, endless depth.
+- a corridor promises passage
+- a staircase promises another level
+- an escalator promises arrival
+- a platform promises departure
+- a waiting room promises an event
+- a door promises another place
+- an exit promises outside
+- a route promises progress
+
+Then let one of those promises fail.
+
+The failure should grow from the existing architecture.
+
+Do not randomly invent surreal objects.
+
+---
+
+## One Dominant Spatial Failure
+
+Choose one main spatial failure.
+
+Do not combine many unrelated surreal ideas.
+
+The result should be easy to describe in one sentence.
 
 Examples:
-- repeated bays, arches, lights, or pillars continue too long
-- a station platform becomes an endless concourse
-- tiled passageways keep unfolding deeper into space
 
-### 3. Recursive public space
+- a small door opens into a much larger public interior
+- an exit leads deeper inside instead of outdoors
+- a platform continues into itself
+- a corridor extends without arrival
+- a staircase descends into an impossible lower public level
+- an escalator rises toward a destination that never resolves
+- a platform repeats beneath itself
+- an exterior courtyard becomes part of a larger interior
+- a monitor behaves like another spatial layer
+- a public room collapses into fragments of its own identity
+
+If the transformation is barely noticeable, it is too weak.
+
+---
+
+## Spatial Failure Library
+
+Use these as the main concept options.
+
+### Door → Larger Space
+
+A modest threshold opens into a public interior too large to physically fit
+behind it.
+
+### Exit → Interior
+
+An exit appears to lead outside, but outside never truly begins.
+
+### Infinite Continuation
+
+A corridor, platform, tunnel, passage, or column sequence continues far beyond
+reasonable reality.
+
+### Route → Loop
+
+Movement remains possible, but progress disappears.
+
+A route may continue while quietly returning to itself.
+
+### Destination Failure
+
+Architecture still directs movement, but arrival no longer resolves.
+
+### Public Function Failure
+
+A platform, waiting area, corridor, foyer, or transit space remains visually
+functional but loses its real purpose.
+
+### Layer Failure
+
+Another displaced or incomplete version of the same public space appears above,
+below, behind, or within the original.
+
+### Descent Failure
+
+A staircase or lower route continues into a larger, deeper, incomplete, or
+repeated lower public level.
+
+### Interior / Exterior Failure
+
+The boundary between indoor and outdoor space quietly stops functioning.
+
+### Screen / Reflection Failure
+
+A monitor, surveillance image, window, or reflection begins behaving like
+another spatial layer rather than a flat image.
+
+### Compression / Collapse
+
+A large public environment collapses into a few recognizable identity fragments
+such as:
+- signs
+- benches
+- clocks
+- screens
+- train parts
+- tiles
+- columns
+- public furniture
+
+### Recursive Public Space
+
 A public space contains another version of itself.
 
 Examples:
-- a station contains another station
-- a platform edge reveals a second platform below
-- a corridor folds into another corridor of the same type
-- a public interior appears nested inside itself
-
-### 4. Public space beneath public space
-One level of public architecture appears below, behind, or inside another level.
-
-Examples:
-- below the visible platform is another incomplete platform
-- a staircase descends into another transit interior
-- floor, wall, or void reveals a second, quieter layer of the same place
-
-### 5. Indoor / outdoor collapse
-Exterior and interior spatial rules bleed into each other.
-
-Examples:
-- a tree remains real but is enclosed inside a much larger interior chamber
-- an outdoor stair becomes part of an indoor hall
-- daylight exterior architecture opens into fluorescent-lit interior vastness
-- an outdoor public threshold continues as an impossible indoor corridor
-
-### 6. Missing continuation / incomplete architecture
-The space appears to continue, but only partially, as if reality is dropping sections of itself.
-
-Examples:
-- only fragments of the lower space remain
-- a second layer is incomplete, darker, cropped, or off-center
-- the architecture feels as though it is slowly failing to fully repeat itself
-
-### 7. Circulation loop failure
-Movement systems no longer resolve normally.
-
-Examples:
-- a platform loops back into itself
-- stairs lead into a wrong continuation
-- escalators appear to continue into a sealed or expanded volume
-- a passage seems to return while also moving forward
+- a station inside a station
+- a platform beneath a platform
+- a corridor opening into another corridor of the same type
+- a public room nested inside itself
 
 ---
 
-## Spatial composition rules
+## Choose Failure by Image Structure
 
-The intervention should feel architectural, not decorative.
+### Door or threshold
 
-Do:
-- simplify the scene
-- remove clutter
-- reduce noise
-- keep the transformation spatially legible
-- allow large empty areas
-- emphasize volume, thresholds, depth, and repetition
-- use emptiness as part of the concept
-- keep the scene visually calm
+Prefer:
+- larger hidden interior
+- exit becoming deeper interior
+- impossible room behind ordinary opening
+- threshold connecting spaces that should not fit together
 
-Do not:
-- overload the image with too many surreal events
-- introduce random objects without spatial meaning
-- make the scene look like an installation set
-- make the transformation feel like fantasy worldbuilding
-- turn the image into a horror scene
+### Corridor or passage
 
-When possible, create a clearer and more minimal space than in the source image.
-Unnecessary signage, clutter, furniture, crowding, and background distractions can be reduced or removed if that helps the concept.
+Prefer:
+- extension
+- looping
+- repetition
+- unresolved destination
+- enlargement into a quieter public void
 
----
+### Staircase
 
-## Liminal / backrooms-adjacent atmosphere
+Prefer:
+- clear descent failure
+- a larger lower public space
+- repeated lower levels
+- a landing opening into an impossible volume
+- nested descent
 
-The image may carry a liminal, backrooms-adjacent atmosphere, but only in a restrained public-space way.
+Do not solve staircase images with tiny edits.
 
-This means:
-- fluorescent quietness
-- empty transitional architecture
-- slightly uncanny repetition
-- calm spatial dislocation
-- yellow or yellow-green atmospheric cast in some interiors
-- a feeling of being between places, not inside a nightmare
+Do not merely hide a few steps.
 
-Do not include:
-- monsters
-- gore
-- obvious horror staging
-- aggressive darkness
-- jump-scare imagery
-- internet-creepypasta clichés
+The lower spatial transformation must be clearly visible.
 
-This should feel closer to public spatial estrangement than horror fiction.
+### Escalator
 
----
+Prefer:
+- withheld arrival
+- enlarged stripped upper space
+- vertical circulation that continues without resolution
+- escalators entering a larger impossible chamber
 
-## Film and image treatment
+### Platform or waiting area
 
-Use a restrained 2000s documentary visual treatment inspired by fluorescent-lit public interiors and early digital documentary footage lightly transferred toward film texture.
+Prefer:
+- destination failure
+- looping
+- layered platform
+- public function failure
+- compression
+- stronger emptiness
+- repeated or displaced platform space
 
-The image should feel like a quiet observational frame from an older European documentary or a subdued public-space liminal film.
+### Monitor, reflection, or surveillance view
 
-Preferred visual qualities:
+Prefer:
+- another spatial layer
+- displaced public space
+- reflection behaving physically
+- screen becoming evidence of deeper architecture
 
-- warm yellow to slightly yellow-green fluorescent cast
-- slightly sickly but controlled interior tone
-- low contrast
-- muted colors
-- slight haze
-- soft focus or gentle softness
-- subtle halation around lights
-- visible fine grain
-- slightly faded blacks
-- mild shadow compression
-- a lightly worn, observational image texture
-- not pristine, not glossy, not hyper-digital
+### Indoor / outdoor transition
 
-Important:
-The image should not simply look “cinematic.”
-It should specifically feel like:
-- public fluorescent lighting
-- older documentary image texture
-- 2000s digital / DV-era atmosphere
-- quiet, imperfect, observational realism
-- soft and slightly degraded in a beautiful way
+Prefer:
+- outside absorbed into interior
+- courtyard becoming enclosed public space
+- exit failing to become outside
+- daylight architecture continuing into fluorescent interior space
 
-If the source is exterior daylight, keep the realism of daylight, but the final image may still retain a slightly subdued, faded, observational documentary texture rather than clean digital brightness.
+### Large hall or open public room
+
+Prefer:
+- excessive empty expansion
+- repeated lower or adjacent layers
+- scale mismatch
+- functionally intact but existentially empty waiting space
 
 ---
 
-## Strong filter guidance
+## Minimal Intervention
 
-Push the film treatment far enough that it is clearly visible.
+The transformation should be strong in concept but restrained in visual means.
 
-The output should avoid clean modern sharpness and instead lean toward:
-
-- fluorescent public interior mood
-- old documentary texture
-- low-key image softness
-- slightly dusty or aged image atmosphere
-- subtle grain and tonal compression
-- a calm yellowish or yellow-green spatial mood when appropriate
-
-For transit interiors, corridors, waiting areas, platforms, tunnels, stairwells, and underpasses, strengthen the fluorescent yellow cast slightly so the image leans toward a quiet liminal public interior.
-
----
-
-## What to avoid
+Prefer:
+- extending
+- repeating
+- looping
+- sinking
+- overlapping
+- enclosing
+- compressing
+- removing
+- misaligning
+- reclassifying inside and outside
 
 Avoid:
-- clean modern HDR sharpness
-- glossy blockbuster grading
-- highly saturated color
-- polished commercial photography
-- crisp luxury-magazine finish
-- overdesigned surrealism
-- surreal objects with no architectural logic
-- heavy VFX feeling
-- theatrical horror
-- monsters or threat imagery
-- obvious AI fantasy aesthetics
-- overly symmetrical “concept art” staging unless symmetry already exists in the source
-- transforming the image into a totally different location without reason
+- random surreal props
+- decorative fantasy objects
+- giant sculptural structures
+- unrelated portals
+- arbitrary monumental walls
+- overdesigned architecture
 
-Also avoid making the scene too busy.
-If the concept works, subtract rather than add.
+The best transformation should feel as if the original photograph already
+contained the possibility.
 
 ---
 
-## Intervention strength
+## No Architectural Overdesign
 
-The surreal change must be clearly readable.
+Do not redesign the location into concept architecture.
 
-If the result feels too close to the original image, push the spatial failure more clearly.
+Avoid adding unrelated:
 
-If the result becomes too fantastical, pull it back and restore realism.
+- giant blank walls
+- monumental geometric structures
+- fantasy ceilings
+- theatrical portals
+- sculptural installations
+- sci-fi lighting systems
+- impossible structures with no connection to the source
 
-The best result feels like:
-“this place is real, but one public-space rule has quietly stopped working.”
+The failure should emerge from existing architecture.
 
----
+Preserve the site.
 
-## When people are present
-
-If the image includes a person:
-- preserve their scale and realism
-- keep their relationship to the space believable
-- use them to anchor the spatial impossibility
-- do not make them overly dramatic
-- do not turn them into a horror character
-
-A single person can help the image feel more observational and can emphasize scale.
-But if the space itself is the stronger subject, people may be reduced or removed.
+Break its logic.
 
 ---
 
-## Output goal
+## Liminal, Not Horror
 
-Create an image that feels like a real public place entering a state of calm spatial failure.
+The mood should feel:
 
-The viewer should sense:
-- impossible depth
+- quiet
+- suspended
+- empty
+- slightly uncanny
+- emotionally cool
+- underused
+- calm but spatially wrong
+- observational
+
+Avoid:
+
+- monsters
+- blood
+- gore
+- horror faces
+- threatening shadows
+- jump scares
+- haunted-house imagery
+- supernatural threats
+- extreme darkness
+- theatrical fear
+
+The goal is spatial uncertainty, not terror.
+
+---
+
+## Backrooms Logic, Not Backrooms Style
+
+Use Backrooms as spatial logic, not as a fixed visual template.
+
+Useful qualities include:
+
+- impossible extension
+- looping circulation
+- oversized interiors
+- repeated infrastructure
 - failed thresholds
-- recursive public architecture
-- public circulation that no longer resolves correctly
-- quiet emptiness
-- documentary realism
-- liminal atmosphere
-- restrained surreal power
+- unresolved destination
+- suspended public function
+- excessive emptiness
+- architectural repetition
 
-The result should feel suitable for a coherent series of public-space surreal images across cities such as Berlin, Paris, Tokyo, or elsewhere — not tied to one city, but capable of preserving local public architecture.
+Do not automatically generate:
 
----
+- generic yellow office mazes
+- horror corridors
+- monsters
+- fog
+- internet-creepypasta visuals
 
-## Prompt behavior summary
-
-When using this skill:
-
-1. Preserve the source image’s architecture, realism, and framing logic.
-2. Identify the strongest spatial opportunity in the image.
-3. Apply one main public-space failure operation.
-4. Simplify the surrounding environment.
-5. Strengthen emptiness and architectural clarity.
-6. Render the result with a restrained 2000s documentary / fluorescent public interior image texture.
-7. Keep it liminal, uncanny, quiet, and non-horror.
-8. Make the surrealism spatial, not decorative.
-9. Ensure the intervention is clear enough to read.
-10. Avoid modern glossy sharpness and push the aged documentary atmosphere far enough to be felt.
+Discover the Backrooms already latent inside the real public space.
 
 ---
 
-## Short operational reminder
+## Documentary Camera Lock
 
-Preserve reality.
-Simplify the scene.
-Break one spatial rule.
-Make the public space feel larger, quieter, emptier, and slightly impossible.
-Render with a 2000s documentary fluorescent yellow public-interior texture.
-Keep it liminal, restrained, and non-horror.
+This rule is mandatory.
 
-### Extra emphasis on image texture
+The visual language is:
 
-The film treatment must be clearly visible.
+**2000s Documentary Fluorescent Realism**
+
+The final image should feel like a real early-2000s European documentary,
+travel photograph, or subdued public-space observational frame captured with
+older digital or compact-camera technology.
+
+Preferred qualities:
+
+- warm yellow to slightly yellow-green fluorescent cast
+- institutional public-space lighting
+- slightly sickly but controlled fluorescent tone
+- dirty off-whites
+- pale beige
+- muted olive-green undertones
+- tired fluorescent yellow
+- low to moderate contrast
+- muted colors
+- slight optical softness
+- gentle soft focus
+- subtle light bloom or halation
+- visible fine grain
+- slightly faded blacks
+- mild haze
+- modest dynamic range
+- imperfect white balance
+- ordinary exposure
+- believable shadow detail
+- worn architectural texture
+- unpolished documentary realism
+
+The image should feel observational, slightly degraded, and believable.
+
+The fluorescent yellow-green cast should feel caused by real public-space
+lighting and imperfect camera response.
+
+It should not look like a simple global yellow filter.
+
+---
+
+## Strong Image Texture Guidance
+
+The image treatment must be clearly visible.
+
 Do not leave the result looking like clean contemporary digital photography.
 
-Push the image toward:
-- fluorescent yellow or yellow-green interior atmosphere
-- low contrast documentary tonality
-- fine visible grain
+Push the rendering toward:
+
+- fluorescent yellow or yellow-green public-space atmosphere
+- low-contrast documentary tonality
+- visible fine grain
 - slightly faded blacks
 - gentle softness
 - slight haze
-- subtle light bloom / halation
-- muted colors
-- an aged 2000s observational image texture
+- subtle light bloom
+- muted color
+- aged early-2000s observational image texture
 
-The mood should feel like a quiet public-space liminal frame captured on older digital documentary equipment, not a polished modern cinematic still.
+For transit interiors, underground passages, corridors, stairwells, platforms,
+waiting rooms, and fluorescent architectural spaces, the yellow-green cast may
+be slightly stronger.
+
+The result should feel like a quiet public-space frame captured on older digital
+documentary equipment, not a polished modern cinematic still.
+
+---
+
+## Exterior Daylight
+
+If the source image is outdoors, do not force the entire image into artificial
+yellow-green lighting.
+
+Preserve believable daylight.
+
+Still retain:
+
+- subdued documentary color
+- modest contrast
+- slight grain
+- gentle softness
+- imperfect camera response
+- mildly aged image texture
+
+If fluorescent sheltered areas exist, the yellow-green cast may appear locally
+inside those areas.
+
+Color should remain physically believable.
+
+---
+
+## Avoid Modern Digital Polish
+
+Avoid:
+
+- HDR
+- hyper-sharp digital detail
+- glossy architectural visualization
+- polished CGI
+- luxury editorial grading
+- oversaturated color
+- teal-and-orange grading
+- dramatic blockbuster lighting
+- strong cinematic rim light
+- pristine blacks
+- excessive clarity
+- obvious AI sharpness
+- commercial photography finish
+
+If the final image looks clean, neutral, modern, or digitally polished, the
+rendering is incorrect.
+
+Restore:
+- softer contrast
+- grain
+- optical softness
+- faded blacks
+- imperfect white balance
+- fluorescent documentary texture
+
+---
+
+## People
+
+Keep people only when they help:
+
+- establish scale
+- express waiting
+- show movement
+- strengthen documentary realism
+- clarify the relationship between body and architecture
+
+Otherwise reduce or remove them.
+
+If people remain:
+- preserve ordinary behavior
+- preserve realism
+- do not stylize them into fantasy characters
+- do not turn them into horror subjects
+
+In many cases, fewer people make the spatial failure stronger.
+
+---
+
+## Preserve Local Identity
+
+This skill is not tied to Berlin.
+
+It should work in any real city or public environment.
+
+Preserve local identity through:
+
+- signage language
+- tile systems
+- public furniture
+- train colors
+- station materials
+- architectural proportion
+- transit typology
+- lighting character
+- local wear and texture
+
+Paris should remain Paris.
+
+Tokyo should remain Tokyo.
+
+Berlin should remain Berlin.
+
+The spatial language may remain consistent.
+
+The place should not disappear.
+
+---
+
+## Composition
+
+Prefer:
+
+- believable documentary camera height
+- calm observational framing
+- strong architectural legibility
+- negative space
+- clear depth
+- reduced clutter
+- asymmetry when appropriate
+- spatial repetition when derived from the source
+
+Avoid:
+
+- decorative symmetry imposed on the image
+- concept-art staging
+- busy surreal compositions
+- too many competing focal points
+- theatrical architectural spectacle
+
+The transformation should remain visually quiet.
+
+---
+
+## Final Quality Check
+
+Before finishing, verify:
+
+- Is the original location still recognizable?
+- Has the architecture or circulation visibly changed?
+- Would the spatial failure still be readable without the filter?
+- Is there one dominant spatial failure?
+- Is the transformation strong enough to notice?
+- Does the failure emerge from the source architecture?
+- Is the image quieter and more distilled than the source?
+- Are unnecessary people and clutter reduced?
+- Are only the strongest spatial anchors emphasized?
+- Is the mood liminal but non-horror?
+- Does the image feel like 2000s documentary fluorescent realism?
+- Does it avoid clean digital polish?
+- Is the filter secondary to the spatial transformation?
+
+If the spatial change is weak:
+strengthen the spatial failure.
+
+If the image is too busy:
+simplify it.
+
+If the image is too polished:
+restore documentary imperfection.
+
+If only the filter changed:
+the task is not complete.
+
+---
+
+## Guiding Lines
+
+Preserve reality.
+
+Read the spatial promise.
+
+Break one spatial rule.
+
+Make the architectural failure clearly visible.
+
+Simplify the scene.
+
+Keep only the key anchors.
+
+Apply the image treatment last.
+
+Make the space quieter.
+
+Make the failure stronger.
+
+Keep the camera imperfect and honest.
+
+The architecture remains real.
+
+The logic no longer does.
