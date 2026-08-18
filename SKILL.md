@@ -126,39 +126,50 @@ If only the filter changed, the task has failed.
 Use one dominant spatial failure only.
 
 ### Door → Larger Space
+
 A narrow or ordinary doorway reveals a full-scale public space too large to physically fit behind it.
 
 ### Exit → Interior
+
 An exit leads into another interior instead of outside.
 
 ### Infinite Continuation
+
 A corridor, platform, passage, tunnel, or column sequence continues beyond plausible depth.
 
 ### Route → Loop
+
 Movement continues but quietly returns to itself.
 
 ### Destination Failure
+
 The architecture still directs movement, but arrival disappears.
 
 ### Descent Failure
+
 A staircase or lower route continues into a larger, deeper, or repeated lower public level.
 
 ### Layer Failure
+
 Another version of the same platform, floor, corridor, or room appears above, below, behind, or within the original.
 
 ### Interior / Exterior Failure
+
 Outside becomes enclosed, or an exit never fully becomes outside.
 
 ### Recursive Public Space
+
 A public space contains another version of itself.
 
 Examples:
+
 - station inside station
 - platform beneath platform
 - corridor behind corridor
 - full-scale passage inside a narrow door
 
 ### Compression / Collapse
+
 A large public environment reduces to a few recognizable fragments of its own identity.
 
 The failure must be clearly visible.
@@ -168,20 +179,26 @@ The failure must be clearly visible.
 ## 5. Match the Failure to the Image
 
 ### Door / threshold
+
 Prefer:
+
 - full-scale corridor behind a narrow door
 - larger hidden interior
 - exit becoming deeper interior
 
 ### Corridor
+
 Prefer:
+
 - impossible extension
 - loop
 - repetition
 - unresolved destination
 
 ### Staircase
+
 Prefer:
+
 - clear descent failure
 - larger lower public space
 - repeated lower levels
@@ -190,13 +207,17 @@ Prefer:
 Do not merely hide steps.
 
 ### Escalator
+
 Prefer:
+
 - withheld arrival
 - continued ascent beyond the destination
 - escalator entering an impossible upper volume
 
 ### Platform / waiting area
+
 Prefer:
+
 - hidden lower platform
 - repeated platform
 - route loop
@@ -204,13 +225,17 @@ Prefer:
 - public function failure
 
 ### Monitor / reflection
+
 Prefer:
+
 - another spatial layer
 - displaced architecture
 - reflection behaving physically
 
 ### Indoor / outdoor transition
+
 Prefer:
+
 - outside absorbed into interior
 - courtyard becoming enclosed
 - exit failing to become outside
@@ -278,11 +303,13 @@ Before rendering, ask:
 Would the spatial failure still be obvious in black and white?
 
 If no:
+
 strengthen it.
 
 Would the result still look almost identical to the source?
 
 If yes:
+
 strengthen it.
 
 The architectural change should be readable at thumbnail size.
@@ -445,6 +472,8 @@ Image treatment comes last.
 If the user asks for a dry run:
 
 Do not generate or edit an image.
+
+Treat requests for **Spatial Critic Mode**, concept analysis, or failure analysis as Dry Run Mode.
 
 Output only:
 
