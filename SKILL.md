@@ -139,7 +139,116 @@ Do not add random surreal objects.
 
 ---
 
-## 4. Spatial Geometry MUST Change
+## 4. FAILURE LOCK — CONTINUED EDITS
+
+Before choosing a spatial failure,
+determine whether the supplied image already contains
+a clearly established public-space failure.
+
+If the image is an already-transformed master image,
+the existing failure becomes LOCKED.
+
+Do NOT automatically choose a new failure.
+
+Do NOT reinterpret an existing successful spatial failure
+simply because another valid spatial idea is possible.
+
+Preserve:
+
+- failure category
+- core impossible relationship
+- route logic
+- direction of spatial transformation
+- spatial hierarchy
+- established architectural contradiction
+- intended destination logic
+- existing inside / outside logic
+- existing recursion / loop / layer logic
+
+Only refine:
+
+- clarity
+- scale
+- depth
+- compression
+- legibility
+- architectural integration
+- local geometry
+- clutter
+- photographic continuity
+
+The user may ask:
+
+- make it stronger
+- make it subtler
+- make it deeper
+- make it narrower
+- make it more obvious
+- make it more realistic
+- simplify it
+- improve the perspective
+- refine the geometry
+- improve the photographic texture
+
+These are refinement requests.
+
+They are NOT permission to replace the existing spatial concept.
+
+### Critical Rule
+
+If the current master already contains:
+
+**Route → Loop**
+
+do NOT replace it with:
+
+- Descent Failure
+- Layer Failure
+- Infinite Continuation
+- Destination Failure
+
+If the current master already contains:
+
+**Interior / Exterior Failure**
+
+do NOT replace it with:
+
+- Door → Larger Space
+- Recursive Public Space
+- Layer Failure
+
+If the current master already contains:
+
+**Door → Larger Space**
+
+do NOT replace it with:
+
+- Infinite Continuation
+- Route → Loop
+- Descent Failure
+
+unless the user explicitly requests a new concept.
+
+A new failure may be valid in isolation
+and still be WRONG for the current edit.
+
+**A VALID ALTERNATIVE FAILURE IS STILL WRONG
+IF IT REPLACES THE USER'S ESTABLISHED FAILURE WITHOUT PERMISSION.**
+
+When editing an already-transformed master image:
+
+**REFINE THE FAILURE. DO NOT RESELECT THE FAILURE.**
+
+Only choose a new failure if:
+
+- the user explicitly asks for another concept
+- the user asks to restart
+- the user rejects the existing failure and requests a different one
+- the source image has no established failure yet
+
+---
+
+## 5. Spatial Geometry MUST Change
 
 Every output must contain one clearly visible architectural or circulation failure.
 
@@ -185,9 +294,10 @@ the task has failed.
 
 ---
 
-## 5. Choose ONE Failure
+## 6. Choose ONE Failure
 
-Use one dominant spatial failure only.
+If NO existing failure is already locked,
+use one dominant spatial failure only.
 
 ### Door → Larger Space
 
@@ -247,7 +357,7 @@ The failure must be clearly visible.
 
 ---
 
-## 6. Match the Failure to the Image
+## 7. Match the Failure to the Image
 
 ### Door / threshold
 
@@ -313,9 +423,15 @@ Prefer:
 - exit failing to become outside
 - exterior objects remaining normal while the indoor / outdoor boundary fails
 
+These recommendations apply primarily when selecting a new failure.
+
+If the master image already contains a locked failure,
+preserve that failure instead of replacing it
+with another recommended category.
+
 ---
 
-## 7. Preserve Only Key Anchors
+## 8. Preserve Only Key Anchors
 
 Keep only the minimum anchors needed to preserve identity.
 
@@ -342,7 +458,7 @@ The surrounding geometry is allowed to fail.
 
 ---
 
-## 8. Simplify
+## 9. Simplify
 
 Remove or reduce when unnecessary:
 
@@ -374,7 +490,7 @@ not merely different.
 
 ---
 
-## 9. Strength Test
+## 10. Strength Test
 
 Before rendering, ask:
 
@@ -397,6 +513,20 @@ If yes:
 
 the spatial failure is too weak.
 
+If this is a continued edit,
+also ask:
+
+Did the failure category remain the same?
+
+Did I refine the existing impossible relationship,
+or accidentally invent a new one?
+
+If the existing failure has been replaced:
+
+FAIL.
+
+Return to the locked failure.
+
 The architectural change should be readable at thumbnail size.
 
 But spatial strength must not destroy photographic continuity.
@@ -405,7 +535,7 @@ A strong failure should still look accidentally photographed.
 
 ---
 
-## 10. Liminal, Not Horror
+## 11. Liminal, Not Horror
 
 Preferred mood:
 
@@ -443,7 +573,7 @@ The spatial mistake should reveal itself afterward.
 
 ---
 
-## 11. Photographic Continuity — HARD CONSTRAINT
+## 12. Photographic Continuity — HARD CONSTRAINT
 
 **2000s Documentary Fluorescent Realism**
 
@@ -540,7 +670,7 @@ at the moment they are created.
 
 ---
 
-## 12. Exterior Daylight Rule
+## 13. Exterior Daylight Rule
 
 If the source image is outdoors,
 do not force the entire image into artificial yellow-green lighting.
@@ -569,7 +699,7 @@ not from forcing every scene into the same color palette.
 
 ---
 
-## 13. Avoid Modern Digital Polish
+## 14. Avoid Modern Digital Polish
 
 Avoid:
 
@@ -619,7 +749,7 @@ The entire photographic response must feel older and less perfect.
 
 ---
 
-## 14. Execution Order
+## 15. Execution Order
 
 Always work in this order:
 
@@ -636,24 +766,37 @@ Always work in this order:
    - practical-light behavior
    - camera imperfection
 
-4. Choose ONE spatial failure.
+4. Determine whether a spatial failure already exists.
 
-5. Change the spatial geometry clearly
+   If NO:
+   choose ONE spatial failure.
+
+   If YES:
+   LOCK the existing failure.
+
+5. If the failure is locked,
+   identify exactly what may be refined
+   WITHOUT changing the failure category.
+
+6. Change or refine the spatial geometry clearly
    WITHOUT leaving the locked photographic world.
 
-6. Make every newly generated architectural area inherit
+7. Make every newly generated architectural area inherit
    the same photographic behavior immediately.
 
-7. Simplify clutter and unnecessary people.
+8. Simplify clutter and unnecessary people.
 
-8. Preserve local identity.
+9. Preserve local identity.
 
-9. Verify the spatial failure works without relying on color grading.
+10. Verify the spatial failure works without relying on color grading.
 
-10. Verify the result still looks like an imperfect
+11. Verify that a continued edit has preserved
+    the same failure category and impossible relationship.
+
+12. Verify the result still looks like an imperfect
     early-2000s documentary / travel photograph.
 
-11. Apply only minor finishing adjustments if necessary.
+13. Apply only minor finishing adjustments if necessary.
 
 Do NOT generate a clean modern image first
 and attempt to age it afterward.
@@ -661,16 +804,21 @@ and attempt to age it afterward.
 Do NOT interpret photographic continuity
 as a final filter stage.
 
+Do NOT reinterpret an already-established failure
+during a refinement edit.
+
 Spatial structure is the editable material.
+
+The selected spatial failure is conceptually locked once established.
 
 Photographic reality remains continuous throughout.
 
 ---
 
-## 15. Dual Validation Test
+## 16. Triple Validation Test
 
 Before accepting the result,
-perform TWO separate tests.
+perform THREE separate tests.
 
 ### TEST A — Spatial Failure
 
@@ -686,7 +834,29 @@ FAIL.
 
 Strengthen the spatial geometry.
 
-### TEST B — Photographic Continuity
+### TEST B — Failure Continuity
+
+If this is a continued edit, ask:
+
+Is this still the SAME spatial failure as the master image?
+
+Has the same impossible relationship been preserved?
+
+Did the route logic remain conceptually unchanged?
+
+Did I refine the failure
+instead of replacing it?
+
+If no:
+
+FAIL.
+
+Return to the established failure.
+
+Do NOT justify a replacement
+simply because the new failure also looks interesting.
+
+### TEST C — Photographic Continuity
 
 Ask:
 
@@ -714,10 +884,11 @@ Correct only the photographic continuity.
 
 ### PASS
 
-PASS only when BOTH are true:
+PASS only when all applicable tests are true:
 
 1. the spatial rule has clearly failed;
-2. the photographic world has remained intact.
+2. an existing failure has not been replaced;
+3. the photographic world has remained intact.
 
 A successful result should feel like:
 
@@ -727,9 +898,13 @@ Not:
 
 **a surreal environment deliberately rendered by a computer.**
 
+And not:
+
+**a different spatial concept invented during revision.**
+
 ---
 
-## 16. Dry Run Mode
+## 17. Dry Run Mode
 
 If the user asks for a dry run:
 
@@ -745,18 +920,25 @@ Output only:
 1. Source spatial promise
 2. 2–4 key spatial anchors
 3. Source photographic-world lock
-4. The single spatial failure
-5. Which architectural geometry visibly changes
-6. How obvious the transformation would be
-7. What clutter / people / signage is removed
-8. What identity anchors remain
-9. How 2000s Documentary Fluorescent Realism is preserved throughout
-10. Spatial Failure PASS or FAIL
-11. Photographic Continuity PASS or FAIL
-12. Final PASS only if both tests pass
+4. Existing failure: YES / NO
+5. If YES: locked failure category
+6. If NO: proposed single spatial failure
+7. Which architectural geometry visibly changes
+8. Which parts of the existing failure must remain unchanged
+9. How obvious the transformation would be
+10. What clutter / people / signage is removed
+11. What identity anchors remain
+12. How 2000s Documentary Fluorescent Realism is preserved throughout
+13. Spatial Failure PASS or FAIL
+14. Failure Continuity PASS or FAIL
+15. Photographic Continuity PASS or FAIL
+16. Final PASS only if all applicable tests pass
 
 PASS only if the architectural change would remain obvious
 without depending on color grading.
+
+Failure Continuity PASS only if
+an already-established spatial concept remains conceptually unchanged.
 
 Photographic Continuity PASS only if the result remains inside
 the same imperfect documentary photographic world.
@@ -775,6 +957,8 @@ Transform the space.
 
 One failure.
 
+Once established, lock the failure.
+
 Few anchors.
 
 Less clutter.
@@ -785,6 +969,8 @@ The spatial failure must survive without the photographic treatment.
 
 The photographic treatment must survive the spatial transformation.
 
+A continued edit must preserve the established failure.
+
 Never sacrifice one to achieve the other.
 
 If only the image treatment changed,
@@ -794,14 +980,21 @@ If the spatial failure works
 but the result becomes clean contemporary digital photography,
 the task also failed.
 
+If an existing spatial failure is replaced
+with another valid but unrequested failure,
+the task also failed.
+
 If the place remains recognizable,
 its spatial promise has clearly broken,
+the same intended failure remains intact,
 and the impossible architecture still looks
 as though it was accidentally captured by the same imperfect camera:
 
 the task succeeded.
 
 **Reality 90% / Failure 10%.**
+
+**REFINE THE FAILURE. DO NOT RESELECT THE FAILURE.**
 
 **CHANGE THE SPACE, NOT THE CAMERA.**
 
